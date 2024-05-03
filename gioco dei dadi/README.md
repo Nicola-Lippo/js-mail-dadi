@@ -2,6 +2,4 @@
 
 2 creo un numero per il pc
 
-3 confronto i 2 numeri
-
-4 il più alto vince
+3 confronto i 2 numeri il più alto vince
